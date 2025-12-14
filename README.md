@@ -18,7 +18,7 @@ This system simulates a real-world analytics workflow including:
 
 ---
 
-## 📊 Architecture Diagram (Star Schema)
+## 📊 Architecture
 
 dim_coach → dim_team → fact_team_ratings
 dim_league → dim_team
@@ -99,6 +99,10 @@ Includes:
 * Player profile slicers
 * Technical & physical KPIs
 
+![Player Dashboard](images/Player)
+
+---
+
 ### ✔ Team Ratings Dashboard
 
 * Team ranking
@@ -106,12 +110,18 @@ Includes:
 * League distribution
 * Rating trend line
 
+![Player Dashboard](images/Team_Rtings)
+
+--=
+
 ### ✔ Club History Dashboard
 
 * Transfers & loans
 * Player–club matrix
 * Transfer timeline
 * Club movement insights
+  
+![Player Dashboard](images/Club_History)
 
 ---
 
@@ -137,6 +147,13 @@ Includes KPIs such as:
 * Implemented 18+ DAX measures
 * Delivered 3 interactive Power BI dashboards
 * Demonstrated end-to-end BI + Data Engineering workflow
+
+---
+
+## Links
+
+* Dataset: [Dataset](https://drive.google.com/drive/folders/1G8gPP6t0DSDxsu4JpW8DOsGolPiREc1r?usp=drive_link)
+* Power BI: [Fifa Analytics Dashboard](https://drive.google.com/file/d/1scgbGoe3W2zJA5obM0uVZ1NOVwU6e2QT/view?usp=sharing)
 
 ---
 
