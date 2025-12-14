@@ -99,7 +99,7 @@ Includes:
 * Player profile slicers
 * Technical & physical KPIs
 
-![Player Dashboard](images/Player)
+![Player Dashboard](images/Player.png)
 
 ---
 
@@ -110,7 +110,7 @@ Includes:
 * League distribution
 * Rating trend line
 
-![Player Dashboard](images/Team_Rtings)
+![Player Dashboard](images/Team_Rtings.png)
 
 --=
 
@@ -121,7 +121,7 @@ Includes:
 * Transfer timeline
 * Club movement insights
   
-![Player Dashboard](images/Club_History)
+![Player Dashboard](images/Club_History.png)
 
 ---
 
