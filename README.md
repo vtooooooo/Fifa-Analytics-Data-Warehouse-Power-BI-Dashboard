@@ -112,7 +112,7 @@ Includes:
 
 ![Player Dashboard](images/Team_Rtings.png)
 
---=
+---
 
 ### ✔ Club History Dashboard
 
